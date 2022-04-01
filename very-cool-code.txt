@@ -3,3 +3,4 @@ This is going to be an awesome work!
 I did some more work down here.
 
 Someone else cloned the repo and starts to work on it.
+and that person keeps making commit and makes a PR.
