@@ -4,3 +4,5 @@ They added a new file for the ticket.
 There are a few things to be added here.
 
 First, add some base classes.
+
+Then, create some mixin classes.
