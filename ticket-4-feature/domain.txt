@@ -1,1 +1,2 @@
 I am adding some domain model for the new cool feature.
+and a new dev created a followup PR and added some fields to the domain.
