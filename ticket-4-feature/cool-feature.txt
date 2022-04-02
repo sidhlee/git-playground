@@ -1,1 +1,2 @@
 Now I started to work on a new ticket.
+I am adding some domain model for the new cool feature.
