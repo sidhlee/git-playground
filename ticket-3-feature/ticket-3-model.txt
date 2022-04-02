@@ -1,0 +1,1 @@
+Now let's add some models with types and methods
