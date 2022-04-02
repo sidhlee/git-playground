@@ -1,0 +1,1 @@
+This is a repository class to get data from db and return domain object
