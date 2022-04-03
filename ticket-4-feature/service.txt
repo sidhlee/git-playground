@@ -1,1 +1,2 @@
 This is a service class for the new feature
+The new dev makes changes to the service methods.

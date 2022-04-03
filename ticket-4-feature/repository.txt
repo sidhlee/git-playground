@@ -1,1 +1,2 @@
 This is a repository class to get data from db and return domain object
+The new dev makes changes to the repo methods as well to reflect the change in domain.
